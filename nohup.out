@@ -1,0 +1,298 @@
+[I 20:10:41.452 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 20:10:41.654 NotebookApp] Serving notebooks from local directory: /home/ubuntu/d2l-zh/pytorch
+[I 20:10:41.654 NotebookApp] Jupyter Notebook 6.5.7 is running at:
+[I 20:10:41.654 NotebookApp] http://VM-16-13-ubuntu:8888/?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc
+[I 20:10:41.654 NotebookApp]  or http://127.0.0.1:8888/?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc
+[I 20:10:41.654 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 20:10:41.657 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-13560-open.html
+    Or copy and paste one of these URLs:
+        http://VM-16-13-ubuntu:8888/?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc
+     or http://127.0.0.1:8888/?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc
+[I 20:12:26.836 NotebookApp] 302 GET / (182.118.239.153) 0.470000ms
+[I 20:12:26.912 NotebookApp] 302 GET /tree? (182.118.239.153) 0.610000ms
+[I 20:12:26.998 NotebookApp] 302 GET / (182.118.239.153) 0.370000ms
+[I 20:12:27.078 NotebookApp] 302 GET /tree? (182.118.239.153) 0.550000ms
+[I 20:12:55.581 NotebookApp] 302 GET /?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc (182.118.239.153) 0.410000ms
+[W 20:18:55.176 NotebookApp] 405 CONNECT 185.65.245.140:7227 (94.156.64.121) 4.590000ms referer=None
+[I 20:31:32.136 NotebookApp] 302 GET / (91.182.229.50) 0.420000ms
+[I 21:14:59.610 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 21:14:59.611 NotebookApp] Notebook index.ipynb is not trusted
+[W 21:14:59.769 NotebookApp] 404 GET /static/components/codemirror/mode/eval_rst/eval_rst.js?v=20240925201041 (182.118.239.153) 3.300000ms referer=http://43.128.62.131:8888/notebooks/index.ipynb
+[I 21:14:59.809 NotebookApp] Kernel started: 4c492339-2601-4709-9d9d-7d5afed5fdef, name: python3
+[W 21:15:06.766 NotebookApp] Notebook chapter_preliminaries/index.ipynb is not trusted
+[I 21:15:07.012 NotebookApp] Kernel started: 36809569-4c15-49d5-95d2-cd315a87fce0, name: python3
+[I 21:17:00.530 NotebookApp] Saving file at /index.ipynb
+[W 21:17:07.226 NotebookApp] Notebook chapter_preliminaries/pandas.ipynb is not trusted
+[I 21:17:07.538 NotebookApp] Saving file at /chapter_preliminaries/index.ipynb
+[I 21:17:07.622 NotebookApp] Kernel started: 8a29d757-69f0-469a-9ddb-4701640a76f7, name: python3
+[W 21:17:20.106 NotebookApp] Notebook chapter_preliminaries/linear-algebra.ipynb is not trusted
+[I 21:17:21.264 NotebookApp] Kernel started: 8014dad0-a2ff-45c4-87e7-29551aa0d915, name: python3
+[I 21:17:23.522 NotebookApp] Starting buffering for 8a29d757-69f0-469a-9ddb-4701640a76f7:5593e950cb4d4203a3e9096c1797c214
+[W 21:17:28.106 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (182.118.239.153) 1.970000ms referer=http://43.128.62.131:8888/notebooks/chapter_preliminaries/linear-algebra.ipynb
+[I 21:17:54.613 NotebookApp] Starting buffering for 8014dad0-a2ff-45c4-87e7-29551aa0d915:6338e2fcae0b4dcd83934314aa934dfb
+[I 21:17:54.855 NotebookApp] Kernel restarted: 8014dad0-a2ff-45c4-87e7-29551aa0d915
+[I 21:17:55.149 NotebookApp] Restoring connection for 8014dad0-a2ff-45c4-87e7-29551aa0d915:6338e2fcae0b4dcd83934314aa934dfb
+[I 21:17:55.290 NotebookApp] Replaying 3 buffered messages
+[I 21:18:14.222 NotebookApp] 302 GET / (220.196.160.144) 0.450000ms
+[I 21:18:14.521 NotebookApp] 302 GET /tree? (220.196.160.65) 0.620000ms
+[I 21:18:15.556 NotebookApp] 302 GET / (220.196.160.146) 0.430000ms
+[I 21:18:19.851 NotebookApp] 302 GET / (220.196.160.53) 0.490000ms
+[I 21:18:20.094 NotebookApp] 302 GET /tree? (220.196.160.84) 0.550000ms
+[I 21:18:29.576 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 21:19:21.412 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[W 21:27:03.670 NotebookApp] 404 GET /webpages/login.html (95.214.55.43) 1.400000ms referer=None
+[W 21:27:28.249 NotebookApp] 405 CONNECT example.com:443 (154.213.184.18) 1.290000ms referer=None
+[W 21:28:38.059 NotebookApp] 405 CONNECT google.com:443 (179.43.133.162) 1.330000ms referer=None
+[I 21:49:21.607 NotebookApp] 302 GET /?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc (182.118.239.153) 0.410000ms
+[I 21:53:21.469 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:05:21.519 NotebookApp] Malformed HTTP message from 182.118.239.153: no colon in header line
+[I 22:05:25.631 NotebookApp] 302 GET /?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc (106.34.162.146) 0.420000ms
+[W 22:07:30.572 NotebookApp] 404 GET /static/components/codemirror/mode/eval_rst/eval_rst.js?v=20240925201041 (106.34.162.146) 1.710000ms referer=http://43.128.62.131:8888/notebooks/index.ipynb
+[W 22:07:53.310 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (106.34.162.146) 1.810000ms referer=http://43.128.62.131:8888/notebooks/chapter_preliminaries/linear-algebra.ipynb
+[I 22:09:51.619 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[W 22:12:37.943 NotebookApp] 404 GET /druid/index.html (52.183.224.82) 1.330000ms referer=None
+[I 22:15:51.694 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:18:16.689 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:18:22.148 NotebookApp] Starting buffering for 8014dad0-a2ff-45c4-87e7-29551aa0d915:025e2bf55ec64cbe9a3ea40336576add
+[I 22:18:23.309 NotebookApp] Restoring connection for 8014dad0-a2ff-45c4-87e7-29551aa0d915:025e2bf55ec64cbe9a3ea40336576add
+[W 22:18:24.588 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (182.118.239.153) 1.800000ms referer=http://43.128.62.131:8888/notebooks/chapter_preliminaries/linear-algebra.ipynb
+[I 22:18:38.514 NotebookApp] Kernel restarted: 8014dad0-a2ff-45c4-87e7-29551aa0d915
+[I 22:20:23.641 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:22:23.429 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:24:23.364 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:26:23.463 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:28:23.465 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:30:00.445 NotebookApp] Starting buffering for 8014dad0-a2ff-45c4-87e7-29551aa0d915:4c091a43be274fd78a1896ac2acd6c55
+[I 22:30:00.893 NotebookApp] Kernel restarted: 8014dad0-a2ff-45c4-87e7-29551aa0d915
+[I 22:30:01.074 NotebookApp] Restoring connection for 8014dad0-a2ff-45c4-87e7-29551aa0d915:4c091a43be274fd78a1896ac2acd6c55
+[I 22:30:01.431 NotebookApp] Replaying 3 buffered messages
+[I 22:30:23.403 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:32:23.384 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:33:23.127 NotebookApp] 302 GET / (42.228.9.78) 0.410000ms
+[I 22:33:23.300 NotebookApp] 302 GET /tree (42.228.9.78) 0.520000ms
+[I 22:34:23.354 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:36:23.429 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:38:23.409 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:40:23.400 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:42:23.365 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:44:23.395 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:46:23.394 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:48:23.407 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:50:23.454 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:52:23.388 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:54:23.362 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:56:23.384 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 22:58:23.430 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 23:00:23.359 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 23:02:23.355 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[I 23:04:23.350 NotebookApp] Saving file at /chapter_preliminaries/linear-algebra.ipynb
+[W 23:18:52.072 NotebookApp] Forbidden
+[W 23:18:52.073 NotebookApp] 403 GET /api/kernelspecs (180.163.28.55) 1.070000ms referer=None
+[I 23:27:36.660 NotebookApp] Starting buffering for 8014dad0-a2ff-45c4-87e7-29551aa0d915:025e2bf55ec64cbe9a3ea40336576add
+[I 23:27:36.660 NotebookApp] Restoring connection for 8014dad0-a2ff-45c4-87e7-29551aa0d915:025e2bf55ec64cbe9a3ea40336576add
+[E 23:27:36.661 NotebookApp] Uncaught exception GET /api/kernels/8014dad0-a2ff-45c4-87e7-29551aa0d915/channels?session_id=025e2bf55ec64cbe9a3ea40336576add (106.34.162.146)
+    HTTPServerRequest(protocol='http', host='43.128.62.131:8888', method='GET', uri='/api/kernels/8014dad0-a2ff-45c4-87e7-29551aa0d915/channels?session_id=025e2bf55ec64cbe9a3ea40336576add', version='HTTP/1.1', remote_ip='106.34.162.146')
+    Traceback (most recent call last):
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/tornado/websocket.py", line 938, in _accept_connection
+        open_result = handler.open(*handler.open_args, **handler.open_kwargs)
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 405, in open
+        connected = self.nudge()
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/notebook/services/kernels/handlers.py", line 167, in nudge
+        iopub_channel = self.channels["iopub"]
+    KeyError: 'iopub'
+[I 23:27:54.373 NotebookApp] Kernel shutdown: 8014dad0-a2ff-45c4-87e7-29551aa0d915
+[I 23:27:54.588 NotebookApp] Starting buffering for 8014dad0-a2ff-45c4-87e7-29551aa0d915:4c091a43be274fd78a1896ac2acd6c55
+[I 23:27:54.650 NotebookApp] Kernel shutdown: 8014dad0-a2ff-45c4-87e7-29551aa0d915
+[E 23:27:54.650 NotebookApp] Uncaught exception DELETE /api/sessions/a080bccf-b5bd-4382-b8ee-73cf0143470d (182.118.239.153)
+    HTTPServerRequest(protocol='http', host='43.128.62.131:8888', method='DELETE', uri='/api/sessions/a080bccf-b5bd-4382-b8ee-73cf0143470d', version='HTTP/1.1', remote_ip='182.118.239.153')
+    Traceback (most recent call last):
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/tornado/gen.py", line 779, in run
+        yielded = self.gen.throw(exc)
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/notebook/services/sessions/handlers.py", line 164, in delete
+        yield maybe_future(sm.delete_session(session_id))
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/tornado/gen.py", line 766, in run
+        value = future.result()
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/tornado/gen.py", line 785, in run
+        yielded = self.gen.send(value)
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/notebook/services/sessions/sessionmanager.py", line 287, in delete_session
+        yield maybe_future(self.kernel_manager.shutdown_kernel(session['kernel']['id']))
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/notebook/services/kernels/kernelmanager.py", line 304, in shutdown_kernel
+        self.pinned_superclass.shutdown_kernel(self, kernel_id, now=now, restart=restart)
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/jupyter_client/utils.py", line 30, in wrapped
+        raise e
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/jupyter_client/utils.py", line 27, in wrapped
+        return loop.run_until_complete(future)
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/nest_asyncio.py", line 98, in run_until_complete
+        return f.result()
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/asyncio/futures.py", line 201, in result
+        raise self._exception
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/asyncio/tasks.py", line 256, in __step
+        result = coro.send(None)
+      File "/home/ubuntu/miniconda3/envs/d2l/lib/python3.9/site-packages/jupyter_client/multikernelmanager.py", line 264, in _async_shutdown_kernel
+        if not km.ready.cancelled() and km.ready.exception():
+    asyncio.exceptions.InvalidStateError: Exception is not set.
+[W 23:27:54.654 NotebookApp] Unhandled error
+[E 23:27:54.654 NotebookApp] {
+      "Host": "43.128.62.131:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "Referer": "http://43.128.62.131:8888/notebooks/chapter_preliminaries/linear-algebra.ipynb",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"
+    }
+[E 23:27:54.655 NotebookApp] 500 DELETE /api/sessions/a080bccf-b5bd-4382-b8ee-73cf0143470d (182.118.239.153) 6.480000ms referer=http://43.128.62.131:8888/notebooks/chapter_preliminaries/linear-algebra.ipynb
+[I 00:24:24.015 NotebookApp] 302 GET /?token=cded0c019eecb0089d48ef3055683fac7ce35af9148a51cc (171.9.227.185) 0.470000ms
+[W 00:25:08.721 NotebookApp] 404 GET /static/components/codemirror/mode/eval_rst/eval_rst.js?v=20240925201041 (171.9.227.185) 1.860000ms referer=http://43.128.62.131:8888/notebooks/index.ipynb
+[I 00:25:21.111 NotebookApp] Kernel started: b8241e6e-6e74-474a-a601-d2e41235b514, name: python3
+[W 00:25:22.301 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (171.9.227.185) 2.080000ms referer=http://43.128.62.131:8888/notebooks/chapter_preliminaries/linear-algebra.ipynb
+[W 00:26:54.219 NotebookApp] Notebook chapter_preliminaries/calculus.ipynb is not trusted
+[I 00:26:54.488 NotebookApp] 302 GET /notebooks/img/polygon-circle.svg (171.9.227.185) 0.800000ms
+[I 00:26:54.511 NotebookApp] Kernel started: c93a1746-d0d0-42ea-9f2a-a43e6133485b, name: python3
+[I 00:26:54.948 NotebookApp] 302 GET /notebooks/img/polygon-circle.svg (171.9.227.185) 1.770000ms
+[W 00:26:58.166 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (171.9.227.185) 2.230000ms referer=http://43.128.62.131:8888/notebooks/chapter_preliminaries/calculus.ipynb
+[I 00:28:54.814 NotebookApp] Saving file at /chapter_preliminaries/calculus.ipynb
+[W 00:28:54.815 NotebookApp] Notebook chapter_preliminaries/calculus.ipynb is not trusted
+[I 00:31:35.076 NotebookApp] Starting buffering for b8241e6e-6e74-474a-a601-d2e41235b514:cd08bebecca84031858fd45834ecf61e
+[I 00:32:54.708 NotebookApp] Saving file at /chapter_preliminaries/calculus.ipynb
+[W 00:32:54.709 NotebookApp] Notebook chapter_preliminaries/calculus.ipynb is not trusted
+[I 00:33:12.621 NotebookApp] 302 GET /notebooks/img/polygon-circle.svg (171.9.227.185) 0.920000ms
+[I 00:34:30.343 NotebookApp] Starting buffering for c93a1746-d0d0-42ea-9f2a-a43e6133485b:70631d57ff354aeb822a0121a025b64a
+[I 00:34:31.633 NotebookApp] Restoring connection for c93a1746-d0d0-42ea-9f2a-a43e6133485b:70631d57ff354aeb822a0121a025b64a
+[W 00:36:01.634 NotebookApp] WebSocket ping timeout after 90000 ms.
+[I 00:36:06.635 NotebookApp] Starting buffering for c93a1746-d0d0-42ea-9f2a-a43e6133485b:70631d57ff354aeb822a0121a025b64a
+[W 00:53:06.200 NotebookApp] Notebook chapter_preliminaries/calculus.ipynb is not trusted
+[I 00:53:06.970 NotebookApp] 302 GET /notebooks/img/polygon-circle.svg (171.9.227.185) 0.710000ms
+[W 00:53:08.889 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (171.9.227.185) 1.780000ms referer=http://43.128.62.131:8888/notebooks/chapter_preliminaries/calculus.ipynb
+[I 00:56:17.392 NotebookApp] Starting buffering for c93a1746-d0d0-42ea-9f2a-a43e6133485b:5b859c9a79ef4f9496ac4f34cd8e8cf5
+[I 01:06:23.448 NotebookApp] Restoring connection for c93a1746-d0d0-42ea-9f2a-a43e6133485b:5b859c9a79ef4f9496ac4f34cd8e8cf5
+[I 01:07:58.778 NotebookApp] Starting buffering for c93a1746-d0d0-42ea-9f2a-a43e6133485b:5b859c9a79ef4f9496ac4f34cd8e8cf5
+[W 01:32:25.603 NotebookApp] 405 CONNECT example.com:443 (154.213.184.18) 1.330000ms referer=None
+[W 01:58:59.727 NotebookApp] 404 GET /webpages/login.html (95.214.55.43) 1.280000ms referer=None
+[I 01:59:20.165 NotebookApp] 302 GET / (129.211.162.23) 0.430000ms
+[I 01:59:20.306 NotebookApp] 302 GET /tree? (129.211.162.23) 0.650000ms
+[W 03:46:03.051 NotebookApp] Couldn't authenticate WebSocket connection
+[W 03:46:03.053 NotebookApp] 403 GET /api/kernels/36809569-4c15-49d5-95d2-cd315a87fce0/channels?session_id=e57a01ea8a54476a8a0bf1d8016da978 (180.163.29.103) 2.930000ms referer=None
+[W 04:40:58.130 NotebookApp] 405 CONNECT 185.65.245.140:7227 (94.156.71.239) 1.400000ms referer=None
+[W 05:10:29.267 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (43.144.107.30) 1.780000ms referer=None
+[W 05:26:44.207 NotebookApp] 405 CONNECT example.com:443 (154.213.184.18) 1.330000ms referer=None
+[I 06:35:43.241 NotebookApp] Restoring connection for c93a1746-d0d0-42ea-9f2a-a43e6133485b:5b859c9a79ef4f9496ac4f34cd8e8cf5
+[I 06:39:52.242 NotebookApp] Starting buffering for c93a1746-d0d0-42ea-9f2a-a43e6133485b:5b859c9a79ef4f9496ac4f34cd8e8cf5
+[W 06:53:47.093 NotebookApp] 404 GET /webpages/login.html (95.214.55.43) 1.180000ms referer=None
+[C 07:37:05.791 NotebookApp] received signal 15, stopping
+[I 07:37:05.791 NotebookApp] Shutting down 5 kernels
+[I 07:37:05.792 NotebookApp] Kernel shutdown: 36809569-4c15-49d5-95d2-cd315a87fce0
+[I 07:37:05.907 NotebookApp] Kernel shutdown: b8241e6e-6e74-474a-a601-d2e41235b514
+[I 07:37:05.919 NotebookApp] Kernel shutdown: 8a29d757-69f0-469a-9ddb-4701640a76f7
+[I 07:37:05.930 NotebookApp] Kernel shutdown: c93a1746-d0d0-42ea-9f2a-a43e6133485b
+[I 07:37:05.942 NotebookApp] Kernel shutdown: 4c492339-2601-4709-9d9d-7d5afed5fdef
+[I 07:37:05.953 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 07:41:48.220 NotebookApp] Serving notebooks from local directory: /home/ubuntu/d2l-zh/pytorch
+[I 07:41:48.221 NotebookApp] Jupyter Notebook 6.5.7 is running at:
+[I 07:41:48.221 NotebookApp] http://VM-16-13-ubuntu:8888/?token=706762e3420f6968910a458471004613cd84f703a857fb07
+[I 07:41:48.221 NotebookApp]  or http://127.0.0.1:8888/?token=706762e3420f6968910a458471004613cd84f703a857fb07
+[I 07:41:48.221 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:41:48.225 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/ubuntu/.local/share/jupyter/runtime/nbserver-2865-open.html
+    Or copy and paste one of these URLs:
+        http://VM-16-13-ubuntu:8888/?token=706762e3420f6968910a458471004613cd84f703a857fb07
+     or http://127.0.0.1:8888/?token=706762e3420f6968910a458471004613cd84f703a857fb07
+[I 07:43:14.992 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.440000ms
+[I 07:43:15.040 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.620000ms
+[I 07:43:16.235 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.430000ms
+[I 07:43:16.527 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.440000ms
+[I 07:43:16.612 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.400000ms
+[I 07:43:17.333 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.420000ms
+[I 07:43:21.849 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.440000ms
+[I 07:43:21.907 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.390000ms
+[I 07:43:23.432 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.530000ms
+[I 07:43:24.918 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.430000ms
+[I 07:43:24.992 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.340000ms
+[I 07:43:25.735 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.420000ms
+[I 07:43:27.218 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.420000ms
+[I 07:43:27.304 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.410000ms
+[I 07:43:29.391 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.720000ms
+[I 07:43:46.663 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.420000ms
+[I 07:43:47.488 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.370000ms
+[I 07:43:47.520 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.390000ms
+[I 07:43:47.666 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.430000ms
+[I 07:43:48.247 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.450000ms
+[I 07:43:48.810 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.430000ms
+[I 07:43:48.897 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.420000ms
+[I 07:43:49.094 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.410000ms
+[I 07:43:49.234 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.400000ms
+[I 07:43:49.311 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.440000ms
+[I 07:43:50.852 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.400000ms
+[I 07:45:45.878 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.380000ms
+[I 07:45:47.210 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.430000ms
+[I 07:45:47.313 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.390000ms
+[I 07:45:49.119 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.410000ms
+[I 07:45:49.680 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.420000ms
+[I 07:45:49.757 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.380000ms
+[I 07:47:01.023 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.450000ms
+[I 07:47:06.683 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.450000ms
+[I 07:47:06.751 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.390000ms
+[I 07:48:43.098 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.390000ms
+[W 08:14:11.827 NotebookApp] Notebook chapter_preliminaries/calculus.ipynb is not trusted
+[I 08:14:48.904 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.410000ms
+[I 08:14:50.880 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.420000ms
+[I 08:14:51.013 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.430000ms
+[I 08:14:51.170 NotebookApp] 302 GET /?token=706762e3420f6968910a458471004613cd84f703a857fb07 (171.10.181.157) 0.380000ms
+[I 08:18:08.379 NotebookApp] 302 GET / (171.10.181.157) 0.400000ms
+[I 08:18:45.990 NotebookApp] 302 GET / (106.33.169.189) 0.370000ms
+[I 08:19:14.026 NotebookApp] 302 GET / (106.33.169.189) 0.400000ms
+[I 08:19:54.212 NotebookApp] 302 GET / (106.33.169.189) 0.360000ms
+[I 08:19:55.463 NotebookApp] 302 GET / (106.33.169.189) 0.490000ms
+[I 08:19:55.524 NotebookApp] 302 GET / (106.33.169.189) 0.310000ms
+[I 08:19:56.068 NotebookApp] 302 GET / (106.33.169.189) 0.380000ms
+[I 08:19:56.716 NotebookApp] 302 GET / (106.33.169.189) 0.400000ms
+[I 08:19:56.786 NotebookApp] 302 GET / (106.33.169.189) 0.400000ms
+[I 08:19:57.601 NotebookApp] 302 GET / (106.33.169.189) 0.360000ms
+[I 08:19:58.002 NotebookApp] 302 GET / (106.33.169.189) 0.400000ms
+[I 08:19:59.916 NotebookApp] 302 GET / (106.33.169.189) 0.360000ms
+[I 08:20:02.238 NotebookApp] 302 GET / (106.33.169.189) 0.400000ms
+[I 08:20:02.351 NotebookApp] 302 GET / (106.33.169.189) 0.440000ms
+[I 08:20:03.065 NotebookApp] 302 GET / (106.33.169.189) 0.430000ms
+[I 08:20:24.315 NotebookApp] 302 GET / (106.33.169.189) 0.410000ms
+[W 09:08:49.079 NotebookApp] 405 CONNECT example.com:443 (154.213.184.18) 6.340000ms referer=None
+[I 09:15:47.181 NotebookApp] 302 GET / (184.105.247.247) 0.390000ms
+[W 09:16:48.113 NotebookApp] 404 GET http://api.ipify.org/?format=json (184.105.247.238) 3.750000ms referer=None
+[W 09:17:09.960 NotebookApp] 405 CONNECT www.shadowserver.org:443 (184.105.247.247) 1.310000ms referer=None
+[I 09:55:23.398 NotebookApp] 302 GET / (64.120.116.26) 0.380000ms
+[W 10:38:25.781 NotebookApp] Forbidden
+[W 10:38:25.781 NotebookApp] 403 GET /api/config/common?_=1727309650417 (180.163.30.100) 0.800000ms referer=None
+[I 10:54:21.173 NotebookApp] 302 GET / (185.191.126.213) 0.400000ms
+[W 11:44:43.374 NotebookApp] 404 GET /webpages/login.html (95.214.55.43) 1.150000ms referer=None
+[I 12:04:57.360 NotebookApp] Shutting down on /api/shutdown request.
+[I 12:04:57.361 NotebookApp] Shutting down 0 kernels
+[I 12:04:57.361 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
